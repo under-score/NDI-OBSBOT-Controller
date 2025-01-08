@@ -16,4 +16,7 @@ Needs the libraries sys, numpy, time, logging, socket, asyncio, NDIlib, aiohttp,
 
 Firewall is OK but disable any VPN
 
-With help of ChatGPT o1
+With help of ChatGPT 4o
+
+
+![Bildschirmfoto 2025-01-08 um 11 37 59](https://github.com/user-attachments/assets/13fc5d29-e6ef-471d-9fef-6e0714424032)
