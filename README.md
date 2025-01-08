@@ -1,12 +1,12 @@
 # OBS-Camera-Controller
 
-Python script that creates dockable interface in [OBS](https://obsproject.com/de) to control any NDI PTZ enabled camera.
+Proof of principle Python script that creates a dockable interface in [OBS](https://obsproject.com/de) to control any NDI PTZ enabled camera.
 
 Developed for the [OBSBOT Tail Air](https://www.obsbot.com/de/obsbot-tail-air-streaming-camera)
 
 Based on earlier work https://github.com/under-score/NDI-webRTC and https://github.com/under-score/NDI-PTZ
 
-Needs MacOS, tested under Sequoia 15.1
+Needs MacOS, tested under Sequoia 15.1 but may work in other environments as well
 
 Needs Python 3.8
 
