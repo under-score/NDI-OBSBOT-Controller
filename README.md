@@ -1,4 +1,4 @@
-# OBS-Camera-Controller
+# OBS Remote Camera Controller
 
 Proof of principle Python script that creates a dockable interface in [OBS](https://obsproject.com/de) to control any NDI PTZ enabled camera.
 
