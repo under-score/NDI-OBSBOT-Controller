@@ -10,11 +10,9 @@ Needs MacOS, tested under Sequoia 15.1 but may work in other environments as wel
 
 Needs Python 3.8
 
-Needs NDI SDK https://ndi.video/for-developers/ndi-sdk/download 
+Needs NDI SDK https://ndi.video/for-developers/ndi-sdk/download and "pip install ndi-python" for NDIlib
 
-(NDI is a registered trademark of Vizrt NDI AB)
-
-pip install ndi-python # for NDIlib
+(NDI® is a registered trademark of Vizrt NDI AB)
 
 Needs the libraries sys, numpy, time, logging, socket, asyncio, aiohttp, aiortc, av and fractions
 
